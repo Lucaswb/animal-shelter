@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: White;
+  font-size: 50px;
+}
+h2{
+ text-align: center;
+ border: 4px darkblue;
+ margin: 12px;
+ padding: 4px;
+ color: blue;
+}
+
+.Animalbio div {
+  text-align: center;
+  margin: 12px;
+  border: 6px solid darkblue;
+  padding: 20px;
+  background-color: skyblue;
+}
+
+.column {
+width: 50%;
+float: right;
+}
+
+.center{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+ width: 50%;
+}
+
+.sidebar{
+  float: left;
+  width:150px;
+  margin-left: 10%;
+  margin-top: 20%;
+  font-size: 20px;
+  border: 6px solid darkblue;
+  padding: 20px;
+  background-color: skyblue;
+}
+ body{
+   background-color: #2222FF;
+ }
